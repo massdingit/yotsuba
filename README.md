@@ -1,2 +1,5 @@
 # yotsuba
-a roblox macro for advanced automation of input and general manipulation.
+wait this is a thing really? waowww.....
+nothing is really said right now, but im planning on a python macro with a whole bunch of stuff
+
+have fun
