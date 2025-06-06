@@ -1,5 +1,8 @@
 # yotsuba
-wait this is a thing really? waowww.....
-nothing is really said right now, but im planning on a python macro with a whole bunch of stuff
+some plans on how it should work:
+- ability to import in custom scripts through simplified py that can automate certain glitches
+- an already preset library of native glitches for universal use
+- a fully-fledged autoclicker with support for scripts
+- a lagswitch with variable concig and support for scripts
 
-have fun
+most likely gatekeeping this
